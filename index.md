@@ -7,3 +7,4 @@ In this moment I'm about to finish my studies, and I'm looking for interesting j
 In this page I will collect some bits of my academic and job career, and whatever I'd like to share with the rest of the world.
 
 ## Places I've been...
+[![Polimi](/images/polimi.png "Polimi")](https://www.polimi.it/)
