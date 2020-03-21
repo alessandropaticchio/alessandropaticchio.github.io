@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 title: Hello, my name is Alessandro!
-logo: /images/pyticchio.png
+logo: "/images/pyticchio.png"
