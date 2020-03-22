@@ -7,7 +7,18 @@ In this moment I'm about to finish my studies, and I'm looking for interesting j
 In this page I will collect some bits of my academic and job career, and whatever I'd like to share with the rest of the world.
 
 ## Places I've been...
-[![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science](/images/iacs.png "IACS")](https://iacs.seas.harvard.edu/)
+[![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science @ Harvard](/images/harvard.png "Harvard")](https://iacs.seas.harvard.edu/)
 
-## Things I founded...
+## People I met...
 [![Polimi Data Scientists](/images/pmds.png "Polimi Data Scientists")](https://polimidatascientists.it/)
+
+## Projects I've done...
+[Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.
+[Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".
+[Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.
+[Artificial-Neural-Networks-Labs](https://github.com/alessandropaticchio/Artificial-Neural-Networks-Labs) - Container of all the homeworks for Artificial Neural Networks course at Chalmers.
+[Configuration service](https://github.com/alessandropaticchio/Configuration-service) - A Python implementation of a configuration service, accessible via HTTP API.
+
+
+
+
