@@ -14,7 +14,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 ## :mag_right: Projects I've done...
 [Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br>
-[MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained<br>
+[MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained.<br>
 [Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".<br>
 [Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br>
 [Artificial Neural Networks Labs](https://github.com/alessandropaticchio/Artificial-Neural-Networks-Labs) - Container of all the homeworks for Artificial Neural Networks course at Chalmers.<br>
