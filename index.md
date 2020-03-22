@@ -16,8 +16,8 @@ In this page I will collect some bits of my academic and job career, and whateve
 [Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br>
 [MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained.<br>
 [Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".<br>
-[Sales prediction for Data Mining course](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) - A collection of answers to Data Mining exams questions.<br>
-[Data Mining Q&A](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br>
+[Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br>
+[Data Mining Q&A](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) - A collection of answers to Data Mining exams questions.<br>
 [Artificial Neural Networks Labs](https://github.com/alessandropaticchio/Artificial-Neural-Networks-Labs) - Container of all the homeworks for Artificial Neural Networks course at Chalmers.<br>
 [Configuration service](https://github.com/alessandropaticchio/Configuration-service) - A Python implementation of a configuration service, accessible via HTTP API.<br>
 
