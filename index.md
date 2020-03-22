@@ -13,11 +13,11 @@ In this page I will collect some bits of my academic and job career, and whateve
 [![Polimi Data Scientists](/images/pmds.png "Polimi Data Scientists")](https://polimidatascientists.it/)
 
 ## Projects I've done...
-[Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.\
-[Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".\
-[Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.\
-[Artificial-Neural-Networks-Labs](https://github.com/alessandropaticchio/Artificial-Neural-Networks-Labs) - Container of all the homeworks for Artificial Neural Networks course at Chalmers.\
-[Configuration service](https://github.com/alessandropaticchio/Configuration-service) - A Python implementation of a configuration service, accessible via HTTP API.\
+[Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br>
+[Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".<br>
+[Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br>
+[Artificial-Neural-Networks-Labs](https://github.com/alessandropaticchio/Artificial-Neural-Networks-Labs) - Container of all the homeworks for Artificial Neural Networks course at Chalmers.<br>
+[Configuration service](https://github.com/alessandropaticchio/Configuration-service) - A Python implementation of a configuration service, accessible via HTTP API.<br>
 
 
 
