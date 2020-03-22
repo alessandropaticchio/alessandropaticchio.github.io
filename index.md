@@ -19,6 +19,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 [Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br>
 [Data Mining Q&A](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) - A collection of answers to Data Mining exams questions.<br>
 [Artificial Neural Networks Labs](https://github.com/alessandropaticchio/Artificial-Neural-Networks-Labs) - Container of all the homeworks for Artificial Neural Networks course at Chalmers.<br>
+[Fake News Detector](https://github.com/alessandropaticchio/Fake-News-Detector) - A Deep Learning pipeline to train a fake news detector <br>
 [Configuration service](https://github.com/alessandropaticchio/Configuration-service) - A Python implementation of a configuration service, accessible via HTTP API.<br>
 [Come ti Watt?](https://drive.google.com/file/d/14tG1u33iZAyKJmFhG9E1qGr3dkuwtyzk/view?usp=sharing) - Concept of a mobile application with the aim of raising awareness for energy saving and renewable resources. The client of the project was Edison, Italy #1 energy provider.<br>
 
