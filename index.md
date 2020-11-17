@@ -31,10 +31,13 @@ In this page I will collect some bits of my academic and job career, and whateve
 [Configuration service](https://github.com/alessandropaticchio/Configuration-service) - A Python implementation of a configuration service, accessible via HTTP API.<br>
 [Come ti Watt?](https://drive.google.com/file/d/1O-UVBmKltH2T59ys2OGewfCoXA468vHI/view?usp=sharing) - Concept of a mobile application with the aim of raising awareness for energy saving and renewable resources. The client of the project was Edison, Italy #1 energy provider.<br>
 
-## :pencil2: Blogposts I wrote...
+## :newspaper: Blogposts I published...
 [How to visualize the spread of COVID-19 in Italy](https://medium.com/polimi-data-scientists/how-to-visualize-the-spread-of-covid-19-in-italy-6d9ddea18a02) <br>
 [Can a Model Choose the Training Set?](https://medium.com/polimi-data-scientists/can-a-model-choose-the-training-set-76ab610d24f2) <br>
 [From zero to GCP Professional Data Engineer](https://medium.com/polimi-data-scientists/from-zero-to-gcp-professional-data-engineer-d46e520a8a76) <br>
+
+## :pencil2: Notes I wrote...
+["Data Mining and Text Mining" - Answers to Exam Questions](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) <br>
 
 
 
