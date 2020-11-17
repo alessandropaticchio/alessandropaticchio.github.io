@@ -2,6 +2,7 @@
 
 I am Alessandro, 25 years old, from [Lecce](https://www.youtube.com/watch?v=bdYtSIDzN00&t=52s). In 2014 I moved to [Milan](https://www.youtube.com/watch?v=fL_-mC7DHs8) to study "Ingegneria Informatica" at Politecnico di Milano. 
 I got my Bachelor Degree and decided to keep on studying in this wonderful city, so I enrolled in the Master program "Computer Science and Engineering", focusing on AI and Machine Learning. 
+
 In this moment I'm working as a Data Scientist at Moviri, where I leverage my expertise to solve our customers' business problems with the help of Machine Learning and Analytics.
 
 In this page I will collect some bits of my academic and job career, and whatever I'd like to share with the rest of the world.
