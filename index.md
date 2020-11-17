@@ -20,7 +20,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 [![Polimi Data Scientists](/images/pmds.png "Polimi Data Scientists")](https://polimidatascientists.it/index.html)
 
 ## :mag_right: Projects I've done...
-[Semi-supervised Networks for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics.<br>
+[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics.<br>
 [Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br>
 [MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained.<br>
 [Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".<br>
