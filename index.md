@@ -1,18 +1,23 @@
 # Ciao!
 
-I am Alessandro, 24 years old, from [Lecce](https://www.youtube.com/watch?v=bdYtSIDzN00&t=52s). In 2014 I moved to [Milan](https://www.youtube.com/watch?v=fL_-mC7DHs8) to study "Ingegneria Informatica" at Politecnico di Milano. 
+I am Alessandro, 25 years old, from [Lecce](https://www.youtube.com/watch?v=bdYtSIDzN00&t=52s). In 2014 I moved to [Milan](https://www.youtube.com/watch?v=fL_-mC7DHs8) to study "Ingegneria Informatica" at Politecnico di Milano. 
 I got my Bachelor Degree and decided to keep on studying in this wonderful city, so I enrolled in the Master program "Computer Science and Engineering", focusing on AI and Machine Learning. 
-In this moment I'm about to finish my studies, and I'm looking for interesting job opportunities...
+In this moment I'm working as a Data Scientist at Moviri, where I leverage my expertise to solve our customers' business problems with the help of Machine Learning and Analytics.
 
 In this page I will collect some bits of my academic and job career, and whatever I'd like to share with the rest of the world.
 
-## :school: Places I've been...
+
+## :mortar_board: Places I've studied at...
 [![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science @ Harvard](/images/harvard.png "Harvard")](https://iacs.seas.harvard.edu/)
 
+## ::bar_chart:: Places I've worked at...
+[![Moviri](/images/moviri.png "Moviri")](https://www.polimi.it/)
+
 ## :raised_hands: People I met...
-[![Polimi Data Scientists](/images/pmds.png "Polimi Data Scientists")](https://polimidatascientists.it/)
+[![Polimi Data Scientists](/images/pmds.png "Polimi Data Scientists")](https://www.moviri.com/services/analytics/)
 
 ## :mag_right: Projects I've done...
+[Semi-supervised Networks for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics.<br>
 [Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br>
 [MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained.<br>
 [Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".<br>
@@ -26,6 +31,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 ## :pencil2: Blogposts I wrote...
 [How to visualize the spread of COVID-19 in Italy](https://medium.com/polimi-data-scientists/how-to-visualize-the-spread-of-covid-19-in-italy-6d9ddea18a02) <br>
 [Can a Model Choose the Training Set?](https://medium.com/polimi-data-scientists/can-a-model-choose-the-training-set-76ab610d24f2) <br>
+[From zero to GCP Professional Data Engineer](https://medium.com/polimi-data-scientists/from-zero-to-gcp-professional-data-engineer-d46e520a8a76) <br>
 
 
 
