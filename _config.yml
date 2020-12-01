@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Alessandro Paticchio
 logo: "/images/me.png"
 email: alessandropaticchio@gmail.com
-description: Computer Science student @Polimi, passionate about Data Science and Machine Learning. Former research fellow @IACS, Harvard.
+description: Computer Science student @Polimi, passionate about Data Science and Machine Learning. Former research fellow @IACS, Harvard. Data Scientist @Moviri.
 plugins:
   - jemoji
