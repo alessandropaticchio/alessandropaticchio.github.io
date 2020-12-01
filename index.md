@@ -39,6 +39,11 @@ In this page I will collect some bits of my academic and job career, and whateve
 ## :pencil2: Notes I wrote...
 ["Data Mining and Text Mining" - Answers to Exam Questions](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) <br>
 
+## :envelope: Contacts...
+* [...drop me a couple of lines](mailto:alessandropaticchio@gmail.com) <br>
+* [...check my LinkedIn](https://www.linkedin.com/in/alessandro-paticchio-a3b6b7138/)
+
+
 
 
 
