@@ -20,16 +20,16 @@ In this page I will collect some bits of my academic and job career, and whateve
 [![Polimi Data Scientists](/images/pmds.png "Polimi Data Scientists")](https://polimidatascientists.it/index.html)
 
 ## :mag_right: Projects I've done...
-[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics.<br>
+[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics.<br><br />
 [Improving Transfer Learning](https://github.com/alessandropaticchio/improving-transfer-learning) - My Master's thesis in Computer Engineering at Politecnico di Milano, developed at Harvard University. Improving domain-specific transfer learning for image recognition and differential equations.<br>
-[Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br>
-[MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained.<br>
-[Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".<br>
-[Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br>
-[Artificial Neural Networks Labs](https://github.com/alessandropaticchio/Artificial-Neural-Networks-Labs) - Container of all the homeworks for Artificial Neural Networks course at Chalmers.<br>
-[Fake News Detector](https://github.com/alessandropaticchio/Fake-News-Detector) - A Deep Learning pipeline to train a fake news detector <br>
-[Configuration service](https://github.com/alessandropaticchio/Configuration-service) - A Python implementation of a configuration service, accessible via HTTP API.<br>
-[Come ti Watt?](https://drive.google.com/file/d/1O-UVBmKltH2T59ys2OGewfCoXA468vHI/view?usp=sharing) - Concept of a mobile application with the aim of raising awareness for energy saving and renewable resources. The client of the project was Edison, Italy #1 energy provider.<br>
+[Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br><br />
+[MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained.<br><br />
+[Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".<br><br />
+[Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br><br />
+[Artificial Neural Networks Labs](https://github.com/alessandropaticchio/Artificial-Neural-Networks-Labs) - Container of all the homeworks for Artificial Neural Networks course at Chalmers.<br><br />
+[Fake News Detector](https://github.com/alessandropaticchio/Fake-News-Detector) - A Deep Learning pipeline to train a fake news detector <br><br />
+[Configuration service](https://github.com/alessandropaticchio/Configuration-service) - A Python implementation of a configuration service, accessible via HTTP API.<br><br />
+[Come ti Watt?](https://drive.google.com/file/d/1O-UVBmKltH2T59ys2OGewfCoXA468vHI/view?usp=sharing) - Concept of a mobile application with the aim of raising awareness for energy saving and renewable resources. The client of the project was Edison, Italy #1 energy provider.<br><br />
 
 ## :newspaper: Blogposts I published...
 [How to visualize the spread of COVID-19 in Italy](https://medium.com/polimi-data-scientists/how-to-visualize-the-spread-of-covid-19-in-italy-6d9ddea18a02) <br>
