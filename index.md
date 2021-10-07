@@ -1,6 +1,6 @@
 # Ciao!
 
-I am Alessandro, 25 years old, from [Lecce](https://www.youtube.com/watch?v=bdYtSIDzN00&t). In 2014 I moved to [Milan](https://www.youtube.com/watch?v=fL_-mC7DHs8) to study "Ingegneria Informatica" at Politecnico di Milano. 
+I am Alessandro, 26 years old, from [Lecce](https://www.youtube.com/watch?v=bdYtSIDzN00&t). In 2014 I moved to [Milan](https://www.youtube.com/watch?v=fL_-mC7DHs8) to study "Ingegneria Informatica" at Politecnico di Milano. 
 I got my Bachelor Degree and decided to keep on studying in this wonderful city, so I enrolled in the Master program "Computer Science and Engineering", focusing on AI and Machine Learning. 
 
 At the end of my studies, I had the amazing opportunity of working on a couple of research projects with the Institute of Applied Computational Science at Harvard University, and we published a [paper](https://arxiv.org/abs/2010.05074) at the NIPS 2020 Workshop [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2020/).
@@ -21,8 +21,12 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 ## :mag_right: Projects I've done...
 [Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics.<br><br />
+
 [Improving Transfer Learning](https://github.com/alessandropaticchio/improving-transfer-learning) - My Master's thesis in Computer Engineering at Politecnico di Milano, developed at Harvard University. Improving domain-specific transfer learning for image recognition and differential equations.<br><br />
 [Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br><br />
+
+[From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project, we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface.<br><br />
+
 [MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained.<br><br />
 [Lorenzo il Magnifico](https://github.com/alessandropaticchio/Lorenzo-il-Magnifico) - Java implementation of board Game "Lorenzo il Magnifico".<br><br />
 [Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br><br />
