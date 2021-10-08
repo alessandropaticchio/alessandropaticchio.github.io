@@ -21,7 +21,6 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 ## :mag_right: Projects I've done...
 [Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics.<br><br />
-
 [Improving Transfer Learning](https://github.com/alessandropaticchio/improving-transfer-learning) - My Master's thesis in Computer Engineering at Politecnico di Milano, developed at Harvard University. Improving domain-specific transfer learning for image recognition and differential equations.<br><br />
 [From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface.<br><br />
 [Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br><br />
