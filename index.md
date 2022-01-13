@@ -36,6 +36,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 [How to visualize the spread of COVID-19 in Italy](https://medium.com/polimi-data-scientists/how-to-visualize-the-spread-of-covid-19-in-italy-6d9ddea18a02) <br>
 [Can a Model Choose the Training Set?](https://medium.com/polimi-data-scientists/can-a-model-choose-the-training-set-76ab610d24f2) <br>
 [From zero to GCP Professional Data Engineer](https://medium.com/polimi-data-scientists/from-zero-to-gcp-professional-data-engineer-d46e520a8a76) <br>
+[Anomaly Detection with Machine Learning](https://lp.moviri.com/guide-anomaly-detection-with-machine-learning) ... or read the blogpost [here](https://www.moviri.com/case-study/real-time-anomaly-detection/) <br>
 
 ## :pencil2: Notes I wrote...
 ["Data Mining and Text Mining" - Answers to Exam Questions](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) <br>
