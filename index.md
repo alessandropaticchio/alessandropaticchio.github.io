@@ -13,7 +13,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 ## :mortar_board: Places I've studied at...
 [![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science @ Harvard](/images/harvard.png "Harvard")](https://iacs.seas.harvard.edu/)
 
-## :bar_chart: Places I've worked at...
+## :bar_chart: Previously worked at...
 [![Moviri](/images/moviri.png "Moviri")](https://www.moviri.com/services/analytics/)
 
 ## :raised_hands: People I met...
@@ -37,6 +37,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 [Can a Model Choose the Training Set?](https://medium.com/polimi-data-scientists/can-a-model-choose-the-training-set-76ab610d24f2) <br>
 [From zero to GCP Professional Data Engineer](https://medium.com/polimi-data-scientists/from-zero-to-gcp-professional-data-engineer-d46e520a8a76) <br>
 [Anomaly Detection with Machine Learning](https://lp.moviri.com/guide-anomaly-detection-with-machine-learning) ... or read the blogpost [here](https://www.moviri.com/case-study/real-time-anomaly-detection/) <br>
+[Named Entity Recognition from scratch](https://medium.com/@alessandropaticchio/named-entity-recognition-from-scratch-e76b9b3affad)<br>
 
 ## :pencil2: Notes I wrote...
 ["Data Mining and Text Mining" - Answers to Exam Questions](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) <br>
