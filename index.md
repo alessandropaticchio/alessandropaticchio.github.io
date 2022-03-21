@@ -11,9 +11,12 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 
 ## :mortar_board: Places I've studied at...
-<img align="left" width="80" height="80" padding-right=1000px src="/images/polimi.png" href="https://www.polimi.it/">
-<img align="left" width="80" height="80" src="/images/chalmers.png" href="https://www.chalmers.se/en">
-<img align="left" width="80" height="80" src="/images/harvard.png" href="https://iacs.seas.harvard.edu/">
+<a href="https://www.polimi.it/">
+<img align="left" width="80" height="80" padding-right=1000px src="/images/polimi.png">
+</a>
+<a href="https://www.chalmers.se/en">
+<img align="left" width="80" height="80" src="/images/chalmers.png">
+
 
 \
 &nbsp;
@@ -24,7 +27,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 ## 💻 Currently working at...
 <a href="https://casavo.com/it/">
-<img align="left" width="50" height="50" padding-right=1000px src="/images/casavo.png" href="https://casavo.com/it/">
+<img align="left" width="50" height="50" padding-right=1000px src="/images/casavo.png">
 </a>
 
 [Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm looking forward to seeing what my skills can boost Casavo's business 🚀.
@@ -32,7 +35,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 ## :bar_chart: Previously worked at...
 <a href="https://www.moviri.com/analytics/">
-<img align="left" width="50" height="42" src="/images/moviri.png" href="https://www.moviri.com/analytics/">
+<img align="left" width="50" height="42" src="/images/moviri.png">
 </a>
 
 [Moviri Analytics](https://www.moviri.com/analytics/) combines big data engineering and data science expertise to build bespoke, end-to-end business analytics solutions at scale, creating unique value for our customers through cross-industry innovation. The following is a summary of the activities I carried on during my time there.
@@ -43,6 +46,17 @@ In this page I will collect some bits of my academic and job career, and whateve
 - POC to automatically translate Naturale Language into SQL query (Python, PyTorch, Huggingface, Flask, AWS)
 - Design of project solutions for a range of clients
 - In charge of the technical assessment of the recruitment process
+
+<a href="https://iacs.seas.harvard.edu/">
+<img align="left" width="50" height="50" src="/images/harvard.png">
+</a>
+
+[Institute of Applied Computational Science at Harvard (IACS)](https://www.moviri.com/analytics/) is the home for students and faculty who are tackling major challenges in science and the world through the use of computational methods.
+I was selected to work on a combined Data Science project, delivered by Politecnico di Milano and Institute of Applied Computational Science ad Harvard University, regarding advertising strategy optimization.
+
+Consequently, we started a research collaboration to work on my Master Thesis, whose title is: "Improving domain-specific Transfer Learning applications in Image Recognition and Differential Equations".
+
+Lastly, we worked on the application of semi-supervised learning for the estimation of the basic reproduction number of COVID-19, more info the project section.
 
 ## :raised_hands: People I met...
 <a href="https://polimidatascientists.it/index.html">
