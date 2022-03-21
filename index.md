@@ -32,7 +32,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 ## :bar_chart: Previously worked at...
 <a href="https://www.moviri.com/analytics/">
-<img align="left" width="50" height="50" src="/images/moviri.png" href="https://www.moviri.com/analytics/">
+<img align="left" width="50" height="42" src="/images/moviri.png" href="https://www.moviri.com/analytics/">
 </a>
 
 [Moviri Analytics](https://www.moviri.com/analytics/) combines big data engineering and data science expertise to build bespoke, end-to-end business analytics solutions at scale, creating unique value for our customers through cross-industry innovation. The following is a summary of the activities I carried on during my time there.
