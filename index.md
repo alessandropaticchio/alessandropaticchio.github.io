@@ -11,7 +11,10 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 
 ## :mortar_board: Places I've studied at...
-[![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science @ Harvard](/images/harvard.png "Harvard")](https://iacs.seas.harvard.edu/)
+<img align="left" width="50" height="50" src="/images/polimi.png" href="https://www.polimi.it/">
+<img align="left" width="50" height="50" src="/images/chalmers.png" href="https://www.chalmers.se/en">
+<img align="left" width="50" height="50" src="/images/harvard.png" href="https://iacs.seas.harvard.edu/">
+
 
 ## 💻 Currently working at...
 <a href="https://casavo.com/it/">
