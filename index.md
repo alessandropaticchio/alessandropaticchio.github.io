@@ -48,7 +48,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 - In charge of the technical assessment of the recruitment process
 
 <a href="https://iacs.seas.harvard.edu/">
-<img align="left" width="50" height="50" src="/images/harvard.png">
+<img align="left" width="55" height="55" src="/images/harvard.png">
 </a>
 
 [Institute of Applied Computational Science at Harvard (IACS)](https://www.moviri.com/analytics/) is the home for students and faculty who are tackling major challenges in science and the world through the use of computational methods.
