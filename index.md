@@ -17,7 +17,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 <a href="https://casavo.com/it/">
 <img align="left" width="100" height="100" src="/images/casavo.png" href="https://casavo.com/it/">
 </a>
-Casavo is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm looking forward to seeing what my skills can do boost Casavo's business 🚀.
+Casavo is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm looking forward to seeing what my skills can boost Casavo's business 🚀.
 
 
 ## :bar_chart: Previously worked at...
@@ -34,7 +34,7 @@ Moviri combines big data engineering and data science expertise to build bespoke
 - In charge of the technical assessment of the recruitment process
 
 ## :raised_hands: People I met...
-<a href=https://polimidatascientists.it/index.html>
+<a href="https://polimidatascientists.it/index.html">
 <img align="left" width="100" height="124" src="/images/pmds.png">
 </a>
 I founded a student association that has the aim of connecting the world of work with the academic one, focusing on the data science field. 
