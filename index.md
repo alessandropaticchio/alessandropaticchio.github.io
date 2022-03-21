@@ -46,7 +46,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 ## :raised_hands: People I met...
 <a href="https://polimidatascientists.it/index.html">
-<img align="left" width="50" height="62" src="/images/pmds.png">
+<img align="left" width="50" height="54" src="/images/pmds.png">
 </a>
 
 [Polimi Data Scientists](https://polimidatascientists.it/index.html) is a student association I founded, with the aim of connecting the world of work with the academic one, focusing on the data science field. 
