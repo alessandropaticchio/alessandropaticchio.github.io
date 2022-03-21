@@ -5,13 +5,16 @@ I got my Bachelor Degree and decided to keep on studying in this wonderful city,
 
 At the end of my studies, I had the amazing opportunity of working on a couple of research projects with the Institute of Applied Computational Science at Harvard University, and we published a [paper](https://arxiv.org/abs/2010.05074) at the NIPS 2020 Workshop [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2020/).
 
-In this moment I'm working as a Data Scientist at Moviri, where I leverage my expertise to solve our customers' business problems with the help of Machine Learning and Analytics.
+In this moment I'm working as a Machine Learning Engineer at Casavo.
 
 In this page I will collect some bits of my academic and job career, and whatever I'd like to share with the rest of the world.
 
 
 ## :mortar_board: Places I've studied at...
 [![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science @ Harvard](/images/harvard.png "Harvard")](https://iacs.seas.harvard.edu/)
+
+## 💻 Currently working at...
+[![Casavo](/images/Casavo_logo (3) (1).png "Casavo")](https://casavo.com/)
 
 ## :bar_chart: Previously worked at...
 [![Moviri](/images/moviri.png "Moviri")](https://www.moviri.com/services/analytics/)
