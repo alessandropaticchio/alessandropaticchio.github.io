@@ -11,14 +11,15 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 
 ## :mortar_board: Places I've studied at...
-<img align="left" width="50" height="50" src="/images/polimi.png" href="https://www.polimi.it/">
-<img align="left" width="50" height="50" src="/images/chalmers.png" href="https://www.chalmers.se/en">
-<img align="left" width="50" height="50" src="/images/harvard.png" href="https://iacs.seas.harvard.edu/">
+<img align="left" width="80" height="80" padding-right=1000px src="/images/polimi.png" href="https://www.polimi.it/">
+<img align="left" width="80" height="80" src="/images/chalmers.png" href="https://www.chalmers.se/en">
+<img align="left" width="80" height="80" src="/images/harvard.png" href="https://iacs.seas.harvard.edu/"><br />
+
 
 
 ## 💻 Currently working at...
 <a href="https://casavo.com/it/">
-<img align="left" width="50" height="50" src="/images/casavo.png" href="https://casavo.com/it/">
+<img align="left" width="50" height="50" padding-right=1000px src="/images/casavo.png" href="https://casavo.com/it/">
 </a>
 Casavo is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm looking forward to seeing what my skills can boost Casavo's business 🚀.
 
