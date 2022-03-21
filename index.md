@@ -14,13 +14,16 @@ In this page I will collect some bits of my academic and job career, and whateve
 [![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science @ Harvard](/images/harvard.png "Harvard")](https://iacs.seas.harvard.edu/)
 
 ## 💻 Currently working at...
-<img align="left" width="100" height="100" src="/images/casavo.png">
-
+<a href="https://casavo.com/it/">
+<img align="left" width="100" height="100" src="/images/casavo.png" href="https://casavo.com/it/">
+</a>
 Casavo is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm looking forward to seeing what my skills can do boost Casavo's business 🚀.
 
 
 ## :bar_chart: Previously worked at...
+<a href="https://www.moviri.com/analytics/">
 <img align="left" width="100" height="100" src="/images/moviri.png" href="https://www.moviri.com/analytics/">
+</a>
 Moviri combines big data engineering and data science expertise to build bespoke, end-to-end business analytics solutions at scale, creating unique value for our customers through cross-industry innovation. The following is a summary of the activities I carried on during my time there.
 
 
@@ -31,7 +34,14 @@ Moviri combines big data engineering and data science expertise to build bespoke
 - In charge of the technical assessment of the recruitment process
 
 ## :raised_hands: People I met...
-[![Polimi Data Scientists](/images/pmds.png "Polimi Data Scientists")](https://polimidatascientists.it/index.html)
+<a href=https://polimidatascientists.it/index.html>
+<img align="left" width="100" height="124" src="/images/pmds.png">
+</a>
+I founded a student association that has the aim of connecting the world of work with the academic one, focusing on the data science field. 
+
+- Arranged 10+ talks and meet-ups with prestigious companies and professors, with 50+ attendees
+- Published articles and course notes in Data Science topics
+- Gave educational support to younger students willing to pursue a Data Science career
 
 ## :mag_right: Projects I've done...
 [Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics.<br><br />
