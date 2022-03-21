@@ -14,10 +14,21 @@ In this page I will collect some bits of my academic and job career, and whateve
 [![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science @ Harvard](/images/harvard.png "Harvard")](https://iacs.seas.harvard.edu/)
 
 ## 💻 Currently working at...
-[![Casavo](/images/casavo.png "Casavo")](https://casavo.com/)
+<img align="left" width="100" height="100" src="/images/casavo.png">
+
+Casavo is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm looking forward to seeing what my skills can do boost Casavo's business 🚀.
+
 
 ## :bar_chart: Previously worked at...
-[![Moviri](/images/moviri.png "Moviri")](https://www.moviri.com/services/analytics/)
+<img align="left" width="100" height="100" src="/images/moviri.png" href="https://www.moviri.com/analytics/">
+Moviri combines big data engineering and data science expertise to build bespoke, end-to-end business analytics solutions at scale, creating unique value for our customers through cross-industry innovation. The following is a summary of the activities I carried on during my time there.
+
+
+- Anomaly detection on financial time series (Python, Splunk)
+- Network analysis for incident prediction (Python, NetworkX, Neo4j)
+- POC to automatically translate Naturale Language into SQL query (Python, PyTorch, Huggingface, Flask, AWS)
+- Design of project solutions for a range of clients
+- In charge of the technical assessment of the recruitment process
 
 ## :raised_hands: People I met...
 [![Polimi Data Scientists](/images/pmds.png "Polimi Data Scientists")](https://polimidatascientists.it/index.html)
