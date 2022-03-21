@@ -14,7 +14,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 [![Politecnico di Milano](/images/polimi.png "Polimi")](https://www.polimi.it/) [![Chalmers University of Technology](/images/chalmers.png "Chalmers")](https://www.chalmers.se/en) [![Institute of Applied Computational Science @ Harvard](/images/harvard.png "Harvard")](https://iacs.seas.harvard.edu/)
 
 ## 💻 Currently working at...
-[![Casavo](/images/Casavo_logo (3) (1).png "Casavo")](https://casavo.com/)
+[![Casavo](/images/casavo.png "Casavo")](https://casavo.com/)
 
 ## :bar_chart: Previously worked at...
 [![Moviri](/images/moviri.png "Moviri")](https://www.moviri.com/services/analytics/)
