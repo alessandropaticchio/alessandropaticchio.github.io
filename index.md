@@ -56,7 +56,7 @@ I was selected to work on a combined Data Science project, delivered by Politecn
 
 Consequently, we started a research collaboration to work on my Master Thesis, whose title is: "Improving domain-specific Transfer Learning applications in Image Recognition and Differential Equations".
 
-Lastly, we worked on the application of semi-supervised learning for the estimation of the basic reproduction number of COVID-19, more info the project sections.
+Lastly, we worked on the application of semi-supervised learning for the estimation of the basic reproduction number of COVID-19, more info the projects section.
   
 Our research collaboration lasted about one year after my graduation.
 
