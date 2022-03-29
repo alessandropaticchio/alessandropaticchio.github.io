@@ -51,7 +51,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 <img align="left" width="55" height="46" src="/images/harvard-1.png">
 </a>
 
-[Institute of Applied Computational Science at Harvard (IACS)](https://www.moviri.com/analytics/) is the home for students and faculty who are tackling major challenges in science and the world through the use of computational methods.
+[Institute of Applied Computational Science at Harvard (IACS)](https://iacs.seas.harvard.edu/) is the home for students and faculty who are tackling major challenges in science and the world through the use of computational methods.
 I was selected to work on a combined Data Science project, delivered by Politecnico di Milano and Institute of Applied Computational Science ad Harvard University, regarding advertising strategy optimization.
 
 Consequently, we started a research collaboration to work on my Master Thesis, whose title is: "Improving domain-specific Transfer Learning applications in Image Recognition and Differential Equations".
