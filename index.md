@@ -92,7 +92,7 @@ Our research collaboration lasted about one year after my graduation.
 [Anomaly Detection with Machine Learning](https://lp.moviri.com/guide-anomaly-detection-with-machine-learning) ... or read the blogpost [here](https://www.moviri.com/case-study/real-time-anomaly-detection/) <br>
 [Named Entity Recognition from scratch](https://medium.com/@alessandropaticchio/named-entity-recognition-from-scratch-e76b9b3affad)<br>
 [Using AI to automatically estimate the status of a façade](https://medium.com/casavo/using-ai-to-automatically-estimate-the-status-of-a-fa%C3%A7ade-c84c2a90549e)<br>
-
+[What I learned about Graph Neural Networks](https://medium.com/@alessandropaticchio/what-i-learned-about-graph-neural-networks-e17bb0d70a7f)<br>
 
 ## :pencil2: Notes I wrote...
 ["Data Mining and Text Mining" - Answers to Exam Questions](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) <br>
