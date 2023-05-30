@@ -1,6 +1,6 @@
 # Ciao!
 
-I am Alessandro, 27 years old, from [Lecce](https://www.youtube.com/watch?v=bdYtSIDzN00&t). In 2014 I moved to [Milan](https://www.youtube.com/watch?v=fL_-mC7DHs8) to study "Ingegneria Informatica" at Politecnico di Milano. 
+I am Alessandro, 28 years old, from [Lecce](https://www.youtube.com/watch?v=bdYtSIDzN00&t). In 2014 I moved to [Milan](https://www.youtube.com/watch?v=fL_-mC7DHs8) to study "Ingegneria Informatica" at Politecnico di Milano. 
 I got my Bachelor Degree and decided to keep on studying here, so I enrolled in the Master program "Computer Science and Engineering", focusing on AI and Machine Learning. 
 
 At the end of my studies, I had the amazing opportunity of working on a couple of research projects with the Institute of Applied Computational Science at Harvard University, and we published a [paper](https://arxiv.org/abs/2010.05074) at the NIPS 2020 Workshop [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2020/).
@@ -30,7 +30,12 @@ In this page I will collect some bits of my academic and job career, and whateve
 <img align="left" width="50" height="50" padding-right=1000px src="/images/casavo.png">
 </a>
 
-[Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm looking forward to seeing what my skills can boost Casavo's business 🚀.
+[Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm currently leading a team of 3 people in the Pricing Tribe, and I have end-to-end ownership of strategic Data Science initiatives for all the EU countries in which Casavo operates, advancing Casavo's Automatic Valuation Model for house pricing. Following you can find a not-exhaustive list of projects I worked on at Casavo:
+  
+- EVA, Casavo's Automatic Valuation Model (Python, LightGBM)
+- Brunelleschi, a Language Model that extracts information from property descriptions (Python, Huggingface, OpenAI)
+- Cloyster, a Computer Vision classifier that catches buildings in bad conditions 
+- Doduo, a tool that finds duplicated online listings by using Network Science (Python, NetworkX)
 
 
 ## :bar_chart: Previously worked at...
@@ -93,6 +98,7 @@ Our research collaboration lasted about one year after my graduation.
 [Using AI to automatically estimate the status of a façade](https://medium.com/casavo/using-ai-to-automatically-estimate-the-status-of-a-fa%C3%A7ade-c84c2a90549e)<br>
 [What I learned about Graph Neural Networks - published at Towards Data Science](https://medium.com/@alessandropaticchio/what-i-learned-about-graph-neural-networks-e17bb0d70a7f)<br>
 [Introduction to Reinforcement Learning: Temporal Difference, SARSA, Q-Learning - published at Towards Data Science](https://towardsdatascience.com/introduction-to-reinforcement-learning-temporal-difference-sarsa-q-learning-e8f22669c366)<br>
+[Network Science for Entity Resolution](https://shorturl.at/jlNTX)
 
 ## :pencil2: Notes I wrote...
 ["Data Mining and Text Mining" - Answers to Exam Questions](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) <br>
