@@ -33,7 +33,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 [Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm currently leading a team of 3 people in the Pricing Tribe, and I have end-to-end ownership of strategic Data Science initiatives for all the EU countries in which Casavo operates, advancing Casavo's Automatic Valuation Model for house pricing. Following you can find a not-exhaustive list of projects I worked on at Casavo:
   
 - EVA, Casavo's Automatic Valuation Model (Python, LightGBM)
-- Brunelleschi, a Language Model that extracts information from property descriptions (Python, Pytorch, Huggingface, OpenAI)
+- Brunelleschi, a Language Model that extracts information from property descriptions (Python, Pytorch, Huggingface, OpenAI) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
 - Cloyster, a Computer Vision classifier that catches buildings in bad conditions (Python, Pytorch)
 - Doduo, a tool that finds duplicated online listings by using Network Science (Python, NetworkX)
 
