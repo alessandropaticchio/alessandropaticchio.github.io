@@ -32,10 +32,10 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 [Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm currently leading a team of 3 people in the Pricing Tribe, and I have end-to-end ownership of strategic Data Science initiatives for all the EU countries in which Casavo operates, advancing Casavo's Automatic Valuation Model for house pricing. Following you can find a not-exhaustive list of projects I worked on at Casavo:
   
-- EVA, Casavo's Automatic Valuation Model (Python, LightGBM)
-- Brunelleschi, a Language Model that extracts information from property descriptions (Python, Pytorch, Huggingface, OpenAI) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
-- Cloyster, a Computer Vision classifier that catches buildings in bad conditions (Python, Pytorch)
-- Doduo, a tool that finds duplicated online listings by using Network Science (Python, NetworkX)
+- EVA, Casavo's Automatic Valuation Model (**Python, LightGBM, Docker, DVC, MLFlow**)
+- Brunelleschi, a Language Model that extracts information from property descriptions (**Python, Pytorch, Huggingface, OpenAI, Docker, DVC, MLFlo**) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
+- Cloyster, a Computer Vision classifier that catches buildings in bad conditions (**Python, Pytorch, Docker, DVC, MLFlo**)
+- Doduo, a tool that finds duplicated online listings by using Network Science (**Python, NetworkX, Docker**)
 
 
 ## :bar_chart: Previously worked at...
@@ -46,9 +46,9 @@ In this page I will collect some bits of my academic and job career, and whateve
 [Moviri Analytics](https://www.moviri.com/analytics/) combines big data engineering and data science expertise to build bespoke, end-to-end business analytics solutions at scale, creating unique value for our customers through cross-industry innovation. The following is a summary of the activities I carried on during my time there.
 
 
-- Anomaly detection on financial time series (Python, Splunk)
-- Network analysis for incident prediction (Python, NetworkX, Neo4j)
-- POC to automatically translate Naturale Language into SQL query (Python, PyTorch, Huggingface, Flask, AWS)
+- Anomaly detection on financial time series (**Python, Splunk**)
+- Network analysis for incident prediction (**Python, NetworkX, Neo4j**)
+- POC to automatically translate Naturale Language into SQL query (**Python, PyTorch, Huggingface, Flask, AWS**)
 - Design of project solutions for a range of clients
 - In charge of the technical assessment of the recruitment process
 
@@ -73,13 +73,13 @@ Our research collaboration lasted about one year after my graduation.
 [Polimi Data Scientists](https://polimidatascientists.it/index.html) is a student association I founded, with the aim of connecting the world of work with the academic one, focusing on the data science field. 
 
 - Arranged 10+ talks and meet-ups with prestigious companies and professors, with 50+ attendees
-- Published articles and course notes in Data Science topics
+- Published articles and course notes on Data Science topics
 - Gave educational support to younger students willing to pursue a Data Science career
 
 ## :mag_right: Projects I've done...
-[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics. We applied a novel method do solve **differential equations** with **Neural Networks**.<br><br />
+[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics. We applied a novel method to solve **differential equations** with **Neural Networks**.<br><br />
 [Improving Transfer Learning](https://github.com/alessandropaticchio/improving-transfer-learning) - My Master's thesis in Computer Engineering at Politecnico di Milano, developed at Harvard University. Improving domain-specific transfer learning for image recognition and differential equations.<br><br />
-[From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface. The architecture proposed consists of two **Variational Autoencoders** and a **Feed-Forward Network** to map the two latent spaces.<br><br />
+[From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface. The proposed architecture consists of two **Variational Autoencoders** and a **Feed-Forward Network** to map the two latent spaces.<br><br />
 [Neural Style Transfer - Pytorch implementation](https://github.com/alessandropaticchio/neural_style_transfer/) - A Pytorch implementation of the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Gatys et al.<br><br />
 [CartPole-DQN](https://github.com/alessandropaticchio/CartPole-DQN) - This repository contains Pytorch code to train a **Deep Q-Learning network** that learns to balance a CartPole, a common Reinforcement Learning benchmark.<br><br />
 [Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br><br />
