@@ -35,7 +35,26 @@ In this page I will collect some bits of my academic and job career, and whateve
 - EVA, Casavo's Automatic Valuation Model (**Python, LightGBM, Docker, DVC, MLFlow**)
 - Brunelleschi, a Language Model that extracts information from property descriptions (**Python, Pytorch, Huggingface, OpenAI, Docker, DVC, MLFlow**) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
 - Cloyster, a Computer Vision classifier that catches buildings in bad conditions (**Python, Pytorch, Docker, DVC, MLFlow**)
-- Doduo, a tool that finds duplicated online listings by using Network Science (**Python, NetworkX, Docker**)
+- Doduo, a tool that finds duplicated online listings by using Network Science (**Python, NetworkX, Docker, Argo Workflow**)
+
+## :exclamation: Most relevant personal projects...
+
+[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics. We applied a novel method to solve **differential equations** with **Neural Networks**. (**Python, Pytorch**) <br><br/>
+[From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface. The proposed architecture consists of two **Variational Autoencoders** and a **Feed-Forward Network** to map the two latent spaces. (**Python, Pytorch**)<br><br />
+[Neural Style Transfer - Pytorch implementation](https://github.com/alessandropaticchio/neural_style_transfer/) - A Pytorch implementation of the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Gatys et al. (**Python, Pytorch**) <br><br />
+
+(see more below...)
+
+## :newspaper: Blogposts I published...
+[How to visualize the spread of COVID-19 in Italy](https://medium.com/polimi-data-scientists/how-to-visualize-the-spread-of-covid-19-in-italy-6d9ddea18a02) <br>
+[Can a Model Choose the Training Set?](https://medium.com/polimi-data-scientists/can-a-model-choose-the-training-set-76ab610d24f2) <br>
+[From zero to GCP Professional Data Engineer](https://medium.com/polimi-data-scientists/from-zero-to-gcp-professional-data-engineer-d46e520a8a76) <br>
+[Anomaly Detection with Machine Learning](https://lp.moviri.com/guide-anomaly-detection-with-machine-learning) ... or read the blogpost [here](https://www.moviri.com/case-study/real-time-anomaly-detection/) <br>
+[Named Entity Recognition from scratch](https://medium.com/@alessandropaticchio/named-entity-recognition-from-scratch-e76b9b3affad)<br>
+[Using AI to automatically estimate the status of a façade](https://medium.com/casavo/using-ai-to-automatically-estimate-the-status-of-a-fa%C3%A7ade-c84c2a90549e)<br>
+[What I learned about Graph Neural Networks - published at Towards Data Science](https://medium.com/@alessandropaticchio/what-i-learned-about-graph-neural-networks-e17bb0d70a7f)<br>
+[Introduction to Reinforcement Learning: Temporal Difference, SARSA, Q-Learning - published at Towards Data Science](https://towardsdatascience.com/introduction-to-reinforcement-learning-temporal-difference-sarsa-q-learning-e8f22669c366)<br>
+[Network Science for Entity Resolution](https://shorturl.at/jlNTX)
 
 
 ## :bar_chart: Previously worked at...
@@ -65,11 +84,9 @@ Lastly, we worked on the application of semi-supervised learning for the estimat
   
 Our research collaboration lasted about one year after my graduation.
 
-## :mag_right: Personal Projects I've done...
-[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics. We applied a novel method to solve **differential equations** with **Neural Networks**.<br><br />
+## :mag_right: And other personal projects...
+
 [Improving Transfer Learning](https://github.com/alessandropaticchio/improving-transfer-learning) - My Master's thesis in Computer Engineering at Politecnico di Milano, developed at Harvard University. Improving domain-specific transfer learning for image recognition and differential equations.<br><br />
-[From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface. The proposed architecture consists of two **Variational Autoencoders** and a **Feed-Forward Network** to map the two latent spaces.<br><br />
-[Neural Style Transfer - Pytorch implementation](https://github.com/alessandropaticchio/neural_style_transfer/) - A Pytorch implementation of the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Gatys et al.<br><br />
 [CartPole-DQN](https://github.com/alessandropaticchio/CartPole-DQN) - This repository contains Pytorch code to train a **Deep Q-Learning network** that learns to balance a CartPole, a common Reinforcement Learning benchmark.<br><br />
 [Breanna](https://github.com/alessandropaticchio/Breanna) - A Python implementation of a tool to manage advertising campaign data and build Machine Learning models on them.<br><br />
 [MSL-Datashack2019](https://alefac912.github.io/MSL-datashack2019/) - Breanna... explained.<br><br />
@@ -77,17 +94,6 @@ Our research collaboration lasted about one year after my graduation.
 [Sales prediction for Data Mining course](https://github.com/alessandropaticchio/DMTM_2018-Sales-prediction) - A bunch of Python notebooks we used for our Data Mining and Text Mining project.<br><br />
 [Fake News Detector](https://github.com/alessandropaticchio/Fake-News-Detector) - A Deep Learning pipeline to train a fake news detector <br><br />
 
-
-## :newspaper: Blogposts I published...
-[How to visualize the spread of COVID-19 in Italy](https://medium.com/polimi-data-scientists/how-to-visualize-the-spread-of-covid-19-in-italy-6d9ddea18a02) <br>
-[Can a Model Choose the Training Set?](https://medium.com/polimi-data-scientists/can-a-model-choose-the-training-set-76ab610d24f2) <br>
-[From zero to GCP Professional Data Engineer](https://medium.com/polimi-data-scientists/from-zero-to-gcp-professional-data-engineer-d46e520a8a76) <br>
-[Anomaly Detection with Machine Learning](https://lp.moviri.com/guide-anomaly-detection-with-machine-learning) ... or read the blogpost [here](https://www.moviri.com/case-study/real-time-anomaly-detection/) <br>
-[Named Entity Recognition from scratch](https://medium.com/@alessandropaticchio/named-entity-recognition-from-scratch-e76b9b3affad)<br>
-[Using AI to automatically estimate the status of a façade](https://medium.com/casavo/using-ai-to-automatically-estimate-the-status-of-a-fa%C3%A7ade-c84c2a90549e)<br>
-[What I learned about Graph Neural Networks - published at Towards Data Science](https://medium.com/@alessandropaticchio/what-i-learned-about-graph-neural-networks-e17bb0d70a7f)<br>
-[Introduction to Reinforcement Learning: Temporal Difference, SARSA, Q-Learning - published at Towards Data Science](https://towardsdatascience.com/introduction-to-reinforcement-learning-temporal-difference-sarsa-q-learning-e8f22669c366)<br>
-[Network Science for Entity Resolution](https://shorturl.at/jlNTX)
 
 ## :raised_hands: People I met...
 <a href="https://polimidatascientists.it/index.html">
