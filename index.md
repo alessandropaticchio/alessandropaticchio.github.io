@@ -65,18 +65,7 @@ Lastly, we worked on the application of semi-supervised learning for the estimat
   
 Our research collaboration lasted about one year after my graduation.
 
-## :raised_hands: People I met...
-<a href="https://polimidatascientists.it/index.html">
-<img align="left" width="50" height="54" src="/images/pmds.png">
-</a>
-
-[Polimi Data Scientists](https://polimidatascientists.it/index.html) is a student association I founded, with the aim of connecting the world of work with the academic one, focusing on the data science field. 
-
-- Arranged 10+ talks and meet-ups with prestigious companies and professors, with 50+ attendees
-- Published articles and course notes on Data Science topics
-- Gave educational support to younger students willing to pursue a Data Science career
-
-## :mag_right: Projects I've done...
+## :mag_right: Personal Projects I've done...
 [Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics. We applied a novel method to solve **differential equations** with **Neural Networks**.<br><br />
 [Improving Transfer Learning](https://github.com/alessandropaticchio/improving-transfer-learning) - My Master's thesis in Computer Engineering at Politecnico di Milano, developed at Harvard University. Improving domain-specific transfer learning for image recognition and differential equations.<br><br />
 [From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface. The proposed architecture consists of two **Variational Autoencoders** and a **Feed-Forward Network** to map the two latent spaces.<br><br />
@@ -99,6 +88,17 @@ Our research collaboration lasted about one year after my graduation.
 [What I learned about Graph Neural Networks - published at Towards Data Science](https://medium.com/@alessandropaticchio/what-i-learned-about-graph-neural-networks-e17bb0d70a7f)<br>
 [Introduction to Reinforcement Learning: Temporal Difference, SARSA, Q-Learning - published at Towards Data Science](https://towardsdatascience.com/introduction-to-reinforcement-learning-temporal-difference-sarsa-q-learning-e8f22669c366)<br>
 [Network Science for Entity Resolution](https://shorturl.at/jlNTX)
+
+## :raised_hands: People I met...
+<a href="https://polimidatascientists.it/index.html">
+<img align="left" width="50" height="54" src="/images/pmds.png">
+</a>
+
+[Polimi Data Scientists](https://polimidatascientists.it/index.html) is a student association I founded, with the aim of connecting the world of work with the academic one, focusing on the data science field. 
+
+- Arranged 10+ talks and meet-ups with prestigious companies and professors, with 50+ attendees
+- Published articles and course notes on Data Science topics
+- Gave educational support to younger students willing to pursue a Data Science career
 
 ## :pencil2: Notes I wrote...
 ["Data Mining and Text Mining" - Answers to Exam Questions](https://polimidatascientists.it/assets/docs/DMTM_QA_PMDS.pdf) <br>
