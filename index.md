@@ -30,11 +30,11 @@ In this page I will collect some bits of my academic and job career, and whateve
 <img align="left" width="50" height="50" padding-right=1000px src="/images/casavo.png">
 </a>
 
-[Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. They are currently one of the most flourishing start-ups in Italy and I just joined their team of ML Engineers and Data Scientists. I'm currently leading a team of 3 people in the Pricing Tribe, and I have end-to-end ownership of strategic Data Science initiatives for all the EU countries in which Casavo operates, advancing Casavo's Automatic Valuation Model for house pricing. Following you can find a not-exhaustive list of projects I worked on at Casavo:
+[Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. I'm currently leading a team of 3 Data Scientists in the Pricing Tribe, and I have end-to-end ownership of strategic Data Science initiatives for all the EU countries in which Casavo operates. Following you can find a not-exhaustive list of projects I worked on at Casavo:
   
 - EVA, Casavo's Automatic Valuation Model (**Python, LightGBM, Docker, DVC, MLFlow**)
-- Brunelleschi, a Language Model that extracts information from property descriptions (**Python, Pytorch, Huggingface, OpenAI, Docker, DVC, MLFlo**) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
-- Cloyster, a Computer Vision classifier that catches buildings in bad conditions (**Python, Pytorch, Docker, DVC, MLFlo**)
+- Brunelleschi, a Language Model that extracts information from property descriptions (**Python, Pytorch, Huggingface, OpenAI, Docker, DVC, MLFlow**) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
+- Cloyster, a Computer Vision classifier that catches buildings in bad conditions (**Python, Pytorch, Docker, DVC, MLFlow**)
 - Doduo, a tool that finds duplicated online listings by using Network Science (**Python, NetworkX, Docker**)
 
 
@@ -43,7 +43,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 <img align="left" width="50" height="42" src="/images/moviri.png">
 </a>
 
-[Moviri Analytics](https://www.moviri.com/analytics/) combines big data engineering and data science expertise to build bespoke, end-to-end business analytics solutions at scale, creating unique value for our customers through cross-industry innovation. The following is a summary of the activities I carried on during my time there.
+[Moviri Analytics](https://www.moviri.com/analytics/) combines big data engineering and data science expertise to build bespoke, end-to-end business analytics solutions at scale, creating unique value for our customers through cross-industry innovation. The following is a summary of the activities I carried on during my time there as a Data Scientist.
 
 
 - Anomaly detection on financial time series (**Python, Splunk**)
