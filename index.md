@@ -2,26 +2,14 @@
 
 I am Alessandro, 28 years old, from [Lecce](https://www.youtube.com/watch?v=bdYtSIDzN00&t). In 2014 I moved to [Milan](https://www.youtube.com/watch?v=fL_-mC7DHs8) to study "Ingegneria Informatica" at **Politecnico di Milano**. 
 I got my Bachelor Degree and decided to keep on studying here, so I enrolled in the Master program "**Computer Science and Engineering**", focusing on **AI and Machine Learning**. 
+During the program, I also spent one semester abroad at **Chalmers University of Technology**, in **Gothenburg, Sweden**.
 
 At the end of my studies, I had the amazing opportunity of working on a couple of research projects with the **Institute of Applied Computational Science at Harvard University**, and we published a [paper](https://arxiv.org/abs/2010.05074) at the NIPS 2020 Workshop [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2020/).
 
-In this moment I'm working as a **Machine Learning Engineer at [Casavo](https://casavo.com/it/)**.
+In this moment I'm working as a **Data Scientist at [Casavo](https://casavo.com/it/)**.
 
 In this page I will collect some bits of my academic and job career, and whatever I'd like to share with the rest of the world.
 
-
-## :mortar_board: Places I've studied at...
-<a href="https://www.polimi.it/">
-<img align="left" width="80" height="80" padding-right=1000px src="/images/polimi.png">
-</a>
-<a href="https://www.chalmers.se/en">
-<img align="left" width="80" height="80" src="/images/chalmers.png">
-
-
-\
-&nbsp;
-\
-&nbsp;
 \
 &nbsp;
 
@@ -32,9 +20,9 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 [Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. I'm currently leading a team of 3 Data Scientists in the Pricing Tribe, and I have end-to-end ownership of strategic Data Science initiatives for all the EU countries in which Casavo operates. Following you can find a not-exhaustive list of projects I worked on at Casavo:
   
-- EVA, Casavo's Automatic Valuation Model (**Python, LightGBM, Docker, DVC, MLFlow**)
-- Brunelleschi, a Language Model that extracts information from property descriptions (**Python, Pytorch, Huggingface, OpenAI, Docker, DVC, MLFlow**) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
-- Cloyster, a Computer Vision classifier that catches buildings in bad conditions (**Python, Pytorch, Docker, DVC, MLFlow**)
+- EVA, Casavo's Automatic Valuation Model (**Python, LightGBM, Docker, DVC, MLFlow, AWS**)
+- Brunelleschi, a Language Model that extracts information from property descriptions (**Python, Pytorch, Huggingface, OpenAI, Docker, DVC, MLFlow, AWS**) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
+- Cloyster, a Computer Vision classifier that catches buildings in bad conditions (**Python, Pytorch, Docker, DVC, MLFlow, AWS**)
 - Doduo, a tool that finds duplicated online listings by using Network Science (**Python, NetworkX, Docker, Argo Workflow**)
 
 ## :exclamation: Most relevant personal projects...
@@ -45,16 +33,19 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 (see more below...)
 
-## :newspaper: Blogposts I published...
-[How to visualize the spread of COVID-19 in Italy](https://medium.com/polimi-data-scientists/how-to-visualize-the-spread-of-covid-19-in-italy-6d9ddea18a02) <br>
-[Can a Model Choose the Training Set?](https://medium.com/polimi-data-scientists/can-a-model-choose-the-training-set-76ab610d24f2) <br>
-[From zero to GCP Professional Data Engineer](https://medium.com/polimi-data-scientists/from-zero-to-gcp-professional-data-engineer-d46e520a8a76) <br>
-[Anomaly Detection with Machine Learning](https://lp.moviri.com/guide-anomaly-detection-with-machine-learning) ... or read the blogpost [here](https://www.moviri.com/case-study/real-time-anomaly-detection/) <br>
-[Named Entity Recognition from scratch](https://medium.com/@alessandropaticchio/named-entity-recognition-from-scratch-e76b9b3affad)<br>
-[Using AI to automatically estimate the status of a façade](https://medium.com/casavo/using-ai-to-automatically-estimate-the-status-of-a-fa%C3%A7ade-c84c2a90549e)<br>
-[What I learned about Graph Neural Networks - published at Towards Data Science](https://medium.com/@alessandropaticchio/what-i-learned-about-graph-neural-networks-e17bb0d70a7f)<br>
-[Introduction to Reinforcement Learning: Temporal Difference, SARSA, Q-Learning - published at Towards Data Science](https://towardsdatascience.com/introduction-to-reinforcement-learning-temporal-difference-sarsa-q-learning-e8f22669c366)<br>
-[Network Science for Entity Resolution](https://shorturl.at/jlNTX)
+## :newspaper: Main blogposts I published...
+
+* [Using AI to automatically estimate the status of a façade](https://medium.com/casavo/using-ai-to-automatically-estimate-the-status-of-a-fa%C3%A7ade-c84c2a90549e)<br>
+
+* [What I learned about Graph Neural Networks - published at Towards Data Science](https://medium.com/@alessandropaticchio/what-i-learned-about-graph-neural-networks-e17bb0d70a7f)<br>
+
+* [Introduction to Reinforcement Learning: Temporal Difference, SARSA, Q-Learning - published at Towards Data Science](https://towardsdatascience.com/introduction-to-reinforcement-learning-temporal-difference-sarsa-q-learning-e8f22669c366)<br>
+
+* [Network Science for Entity Resolution](https://shorturl.at/jlNTX)
+
+* [Leveraging Language Models for Data Enrichment](https://shorturl.at/jlNTX)
+
+(see more at [my Medium profile](https://medium.com/@alessandropaticchio))
 
 
 ## :bar_chart: Previously worked at...
