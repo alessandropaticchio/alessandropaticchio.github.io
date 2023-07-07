@@ -10,9 +10,6 @@ In this moment I'm working as a **Data Scientist at [Casavo](https://casavo.com/
 
 In this page I will collect some bits of my academic and job career, and whatever I'd like to share with the rest of the world.
 
-\
-&nbsp;
-
 ## 💻 Currently working at...
 <a href="https://casavo.com/it/">
 <img align="left" width="50" height="50" padding-right=1000px src="/images/casavo.png">
