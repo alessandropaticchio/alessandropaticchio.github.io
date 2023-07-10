@@ -30,6 +30,17 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 (see more below...)
 
+## :snake: Skills
+
+### Machine Learning libraries
+`numpy` `pandas` `sklearn` `pytorch` `transformers` `networkx`
+
+### Data
+`postgreSQL` `dbt` `snowflake` `neo4j` 
+
+### MLOps
+`MLFlow` `Argo Workflows` `docker` `AWS`
+
 ## :newspaper: Main blogposts I published...
 
 * [Using AI to automatically estimate the status of a façade](https://medium.com/casavo/using-ai-to-automatically-estimate-the-status-of-a-fa%C3%A7ade-c84c2a90549e)<br>
