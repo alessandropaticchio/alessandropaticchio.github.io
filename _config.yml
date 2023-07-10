@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Alessandro Paticchio
 logo: "/images/me.png"
 email: alessandropaticchio@gmail.com
-description: Data Scientist @Casavo. Former research fellow at IACS @Harvard. Computer Science graduate @Polimi, passionate about Data Science and Machine Learning. <a href="http://testing.test123.org/xx3/landing.gsp">Testing Landing Page</a> \n <a href="http://testing.test123.org/xx3/landing.gsp">Testing Landing Page</a> \n 
+description: Data Scientist @Casavo. Former research fellow at IACS @Harvard. Computer Science graduate @Polimi, passionate about Data Science and Machine Learning. <a href="http://testing.test123.org/xx3/landing.gsp">Testing Landing Page</a> <br> <a href="http://testing.test123.org/xx3/landing.gsp">Testing Landing Page</a>  <br> 
 plugins:
   - jemoji
