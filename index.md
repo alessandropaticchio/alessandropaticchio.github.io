@@ -64,9 +64,9 @@ In this page I will collect some bits of my academic and job career, and whateve
 [Moviri Analytics](https://www.moviri.com/analytics/) combines big data engineering and data science expertise to build bespoke, end-to-end business analytics solutions at scale, creating unique value for our customers through cross-industry innovation. The following is a summary of the activities I carried on during my time there as a Data Scientist.
 
 
-- Anomaly detection on financial time series (**Python, Splunk**)
-- Network analysis for incident prediction (**Python, NetworkX, Neo4j**)
-- POC to automatically translate Naturale Language into SQL query (**Python, PyTorch, Huggingface, Flask, AWS**)
+- Anomaly detection on financial time series (**`python`, `splunk`**)
+- Network analysis for incident prediction (**`python`, `networkx`, `neo4j`**)
+- POC to automatically translate Naturale Language into SQL query (**`python`, `pytorch`, `huggingface`, `flask`, `AWS`**)
 - Design of project solutions for a range of clients
 - In charge of the technical assessment of the recruitment process
 
