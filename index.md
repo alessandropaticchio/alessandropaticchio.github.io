@@ -17,26 +17,26 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 [Casavo](https://casavo.com/it/) is a proptech born in 2017, whose mission is to change how people sell, buy and live houses in Europe. I'm currently leading a team of 3 Data Scientists in the Pricing Tribe, and I have end-to-end ownership of strategic Data Science initiatives for all the EU countries in which Casavo operates. Following you can find a not-exhaustive list of projects I worked on at Casavo:
   
-- EVA, Casavo's Automatic Valuation Model (**Python, LightGBM, Docker, DVC, MLFlow, AWS**)
-- Brunelleschi, a Language Model that extracts information from property descriptions (**Python, Pytorch, Huggingface, OpenAI, Docker, DVC, MLFlow, AWS**) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
-- Cloyster, a Computer Vision classifier that catches buildings in bad conditions (**Python, Pytorch, Docker, DVC, MLFlow, AWS**)
-- Doduo, a tool that finds duplicated online listings by using Network Science (**Python, NetworkX, Docker, Argo Workflow**)
+- EVA, Casavo's Automatic Valuation Model (**`python`, `lightGBM`, `docker`, `DVC`, `MLFlow`, `AWS`**)
+- Brunelleschi, a Language Model that extracts information from property descriptions (**`python`, `pytorch`, `huggingface`, `OpenAI`, `docker`, `DVC`, `MLFlow`, `AWS`**) ... [watch a Demo here!!!](https://youtu.be/ILyLISZon2M)
+- Cloyster, a Computer Vision classifier that catches buildings in bad conditions (**`python`, `pytorch`, `docker`, `DVC`, `MLFlow`, `AWS`**)
+- Doduo, a tool that finds duplicated online listings by using Network Science (**`Python`, `networkX`, `docker`, `Argo Workflows`**)
 
 ## :exclamation: Most relevant personal projects...
 
-[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics. We applied a novel method to solve **differential equations** with **Neural Networks**. (**Python, Pytorch**) <br><br/>
-[From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface. The proposed architecture consists of two **Variational Autoencoders** and a **Feed-Forward Network** to map the two latent spaces. (**Python, Pytorch**)<br><br />
-[Neural Style Transfer - Pytorch implementation](https://github.com/alessandropaticchio/neural_style_transfer/) - A Pytorch implementation of the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Gatys et al. Neural Style Transfer is an optimization technique to manipulate an image and apply the visual appearance of another one. (**Python, Pytorch**) <br><br />
+[Semi-supervised NNs for COVID-19, published at NIPS 2020 Workshop](https://github.com/alessandropaticchio/semi_supervised_nn_for_covid19/blob/master/README.md) -  In this work, we study the spread of COVID-19 using a semi-supervised neural network and assuming a passive part of the population remains isolated from the virus dynamics. We applied a novel method to solve **differential equations** with **Neural Networks**. (**`python`, `pytorch`**) <br><br/>
+[From Potential To Rays](https://github.com/alessandropaticchio/from_potential_to_rays/tree/main) -  In this research project we leveraged Deep Learning to study a well-known optics problem, namely trying to predict where caustics will emerge, given the position and the intensity of the rays hitting a surface. The proposed architecture consists of two **Variational Autoencoders** and a **Feed-Forward Network** to map the two latent spaces. (**`python`, `pytorch`**)<br><br />
+[Neural Style Transfer - Pytorch implementation](https://github.com/alessandropaticchio/neural_style_transfer/) - A Pytorch implementation of the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Gatys et al. Neural Style Transfer is an optimization technique to manipulate an image and apply the visual appearance of another one. (**`python`, `pytorch`**) <br><br />
 
 (see more below...)
 
 ## :snake: Skills
 
 ### Machine Learning libraries
-`numpy` `pandas` `sklearn` `pytorch` `transformers` `networkx`
+`numpy`, `pandas`, `sklearn`, `pytorch`, `transformers`, `networkx`
 
 ### Data
-`postgreSQL` `dbt` `snowflake` `neo4j` 
+`postgreSQL`, `dbt`, `snowflake`, `neo4j` 
 
 ### MLOps
 `MLFlow` `Argo Workflows` `docker` `AWS`
