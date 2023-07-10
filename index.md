@@ -51,7 +51,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 * [Network Science for Entity Resolution](https://shorturl.at/jlNTX)
 
-* [Leveraging Language Models for Data Enrichment](https://shorturl.at/jlNTX)
+* [Leveraging Language Models for Data Enrichment]([https://shorturl.at/jlNTX](https://medium.com/casavo/leveraging-language-models-for-data-enrichment-7f4b90c92d08))
 
 (see more at [my Medium profile](https://medium.com/@alessandropaticchio))
 
@@ -75,11 +75,11 @@ In this page I will collect some bits of my academic and job career, and whateve
 </a>
 
 [Institute of Applied Computational Science at Harvard (IACS)](https://iacs.seas.harvard.edu/) is the home for students and faculty who are tackling major challenges in science and the world through the use of computational methods.
-I was selected to work on a combined Data Science project, delivered by Politecnico di Milano and Institute of Applied Computational Science ad Harvard University, regarding advertising strategy optimization.
+I was selected to work on a combined Data Science project, delivered by Politecnico di Milano and Institute of Applied Computational Science at Harvard University, regarding advertising strategy optimization.
 
-Consequently, we started a research collaboration to work on my Master Thesis, whose title is: "Improving domain-specific Transfer Learning applications in Image Recognition and Differential Equations".
+Consequently, we started a research collaboration to work on my Master's Thesis, whose title is: "Improving domain-specific Transfer Learning applications in Image Recognition and Differential Equations".
 
-Lastly, we worked on the application of semi-supervised learning for the estimation of the basic reproduction number of COVID-19, more info the projects section.
+Lastly, we worked on the application of semi-supervised learning for the estimation of the basic reproduction number of COVID-19, more info in the projects section.
   
 Our research collaboration lasted about one year after my graduation.
 
