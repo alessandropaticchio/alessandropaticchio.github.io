@@ -51,7 +51,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 
 * [Network Science for Entity Resolution](https://shorturl.at/jlNTX)
 
-* [Leveraging Language Models for Data Enrichment](https://shorturl.at/jlNTX](https://medium.com/casavo/leveraging-language-models-for-data-enrichment-7f4b90c92d08)
+* [Leveraging Language Models for Data Enrichment](https://medium.com/casavo/leveraging-language-models-for-data-enrichment-7f4b90c92d08)
 
 (see more at [my Medium profile](https://medium.com/@alessandropaticchio))
 
