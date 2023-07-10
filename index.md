@@ -39,7 +39,7 @@ In this page I will collect some bits of my academic and job career, and whateve
 `postgreSQL`, `dbt`, `snowflake`, `neo4j` 
 
 ### MLOps
-`MLFlow` `Argo Workflows` `docker` `AWS`
+`MLFlow`, `Argo Workflows`, `docker`, `AWS`
 
 ## :newspaper: Main blogposts I published...
 
