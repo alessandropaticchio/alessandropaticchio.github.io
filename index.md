@@ -112,7 +112,7 @@ Our research collaboration lasted about one year after my graduation.
 
 ## :envelope: Contacts...
 * [...drop me a couple of lines](mailto:alessandropaticchio@gmail.com) <br>
-* [...check my LinkedIn](https://www.linkedin.com/in/alessandro-paticchio-a3b6b7138/)
+* [...check my LinkedIn](https://www.linkedin.com/in/alessandro-paticchio/)
 
 
 
